@@ -1,0 +1,8 @@
+com/arquiteturaweb/trabalho/controller/AuthController.class
+com/arquiteturaweb/trabalho/service/AuthService.class
+com/arquiteturaweb/trabalho/model/User.class
+com/arquiteturaweb/trabalho/config/SecurityConfig.class
+com/arquiteturaweb/trabalho/service/JwtService.class
+com/arquiteturaweb/trabalho/controller/TestProtectedController.class
+com/arquiteturaweb/trabalho/TrabalhoApplication.class
+com/arquiteturaweb/trabalho/repository/UserRepository.class

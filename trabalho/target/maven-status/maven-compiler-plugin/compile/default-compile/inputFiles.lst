@@ -1,0 +1,8 @@
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/TrabalhoApplication.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/config/SecurityConfig.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/controller/AuthController.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/controller/TestProtectedController.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/model/User.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/repository/UserRepository.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/service/AuthService.java
+/home/isabella/Área de Trabalho/trabalho/src/main/java/com/arquiteturaweb/trabalho/service/JwtService.java
